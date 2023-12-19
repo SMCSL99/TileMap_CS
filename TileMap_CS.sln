@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileMap_CS", "TileMap_CS\TileMap_CS.csproj", "{D0A301A8-7CE6-48C0-95ED-E6D41979DD6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0A301A8-7CE6-48C0-95ED-E6D41979DD6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A301A8-7CE6-48C0-95ED-E6D41979DD6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A301A8-7CE6-48C0-95ED-E6D41979DD6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A301A8-7CE6-48C0-95ED-E6D41979DD6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63CA4FE9-B2C6-4E91-BD3F-30C2C17940D1}
+	EndGlobalSection
+EndGlobal
